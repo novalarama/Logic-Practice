@@ -14,4 +14,4 @@ for (let i = 1; i < input.length; i++) {
         buah = input[i].nama
     }
 }
-console.log(`Angka Terbesar adalah ${buah}`);
+console.log(`Penjualan Terbesar adalah buah ${buah}`);
